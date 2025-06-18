@@ -1,5 +1,6 @@
+![logo](https://github.com/AnuragRawat92/AnuragRawat92/blob/main/Screenshot%202025-06-18%20113342.png)
 <h1 align="center">Hi 👋, I'm Anurag Rawat</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack  developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.redd.it/n8agw6z2smyb1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragrawat92&label=Profile%20views&color=0e75b6&style=flat" alt="anuragrawat92" /> </p>
